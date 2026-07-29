@@ -107,7 +107,7 @@ void SetMixedLevel(DifficultyRange &difficulty)
 void ChooseDifficulty(DifficultyRange &difficulty, QuestionLevels &levels)
 {
     int levelChoice;  
-    cout << "Choose difficulty: | Easy(1) | Mid(2) | Hard(3) | Mix(4): ";  // Fixed: better output
+    cout << "Choose difficulty: | Easy(1) | Mid(2) | Hard(3) | Mix(4): "; 
     cin >> levelChoice;
 
     if (levelChoice == 1)
