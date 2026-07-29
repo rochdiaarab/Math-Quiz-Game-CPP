@@ -2,6 +2,12 @@
 
 A console-based Math Quiz Game built with C++ that generates random arithmetic questions with different difficulty levels and operation types while tracking the player's score.
 
+## AI Assistance Notice
+
+ChatGPT was used only as a helper for naming suggestions, improving project descriptions, and organizing README documentation.
+
+All code implementation, algorithms, problem-solving, and project logic were designed and written by me. ChatGPT did not generate the core functionality of this project.
+
 ## 🎮 Features
 
 - Randomly generated math questions
